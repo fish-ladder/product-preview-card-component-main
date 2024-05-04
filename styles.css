@@ -78,7 +78,7 @@
     /* SHAPE, SIZE, POSITION */
     display: flex;
     flex-direction: column;
-    gap: 0.75rem;
+    gap: 1rem;
     padding: 24px;
   }
 
@@ -106,6 +106,7 @@
     font-family: var(--serif);
     font-size: var(--fs-32);
     font-weight: var(--fw-bold);
+    line-height: 32px;
     color: var(--very-dark-blue);
   }
 
@@ -200,6 +201,6 @@
 
     #product-information {
       padding: 32px;
-      gap: 1.125rem
+      gap: 1.5rem
     }
   }
